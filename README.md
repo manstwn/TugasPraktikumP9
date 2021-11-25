@@ -10,7 +10,7 @@ Ini adalah flowchart dari program yang akan saya buat.\
 ![screenshot output](screenshot/flowchart.png)
 
 Dibawah ini adalah code saya\
-Saya juga telah melampirkan filenya
+Saya menggunakan ekstension PrettyTable pada code saya, yang membuatnya lebih mudah.
 ~~~
 
 from prettytable import PrettyTable
