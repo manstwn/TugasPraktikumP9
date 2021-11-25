@@ -9,6 +9,8 @@ Berikut soal tugas dari modul.\
 Ini adalah flowchart dari program yang akan saya buat.\
 ![screenshot output](screenshot/flowchart.png)
 
+Dibawah ini adalah code saya\
+Saya juga telah melampirkan filenya\
 ~~~
 
 from prettytable import PrettyTable
