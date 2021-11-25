@@ -1,16 +1,3 @@
-# Iman Setiawan
-
-**Tugas Praktikum - Pertemuan 9**\
-**Materi List, Tuple, dan Dictionary**
-
-Berikut soal tugas dari modul.\
-![screenshot output](screenshot/soaltugas.png)
-
-Ini adalah flowchart dari program yang akan saya buat.\
-![screenshot output](screenshot/flowchart.png)
-
-~~~
-
 from prettytable import PrettyTable
 
 print("Program Input Data Mahasiswa")
@@ -36,10 +23,8 @@ while True:
 print(tabelNama)
 input("Enter Untuk Keluar...")
 
-~~~
 
-Berikut adalah output dari code di atas.\
-Dengan input data diri dan nilai-nilai.\
-![screenshot output](screenshot/ss1.png)
+
+
 
 
